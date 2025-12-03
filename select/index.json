@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "おやすみTaxi",
+  "base_artist": "MON7A",
+  "createdAt": "2025-12-03T09:47:44.530271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おやすみTaxi",
+      "artist": "MON7A",
+      "has_synced": true,
+      "path": "select/01_おやすみTaxi_MON7A.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おやすみTaxi (Paused)",
+      "artist": "MON7A",
+      "has_synced": true,
+      "path": "select/02_おやすみTaxi_(Paused)_MON7A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おやすみTaxi (Instrumental)",
+      "artist": "MON7A",
+      "has_synced": false,
+      "path": "select/03_おやすみTaxi_(Instrumental)_MON7A.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おやすみTaxi",
+      "artist": "MON7A",
+      "has_synced": false,
+      "path": "select/pl_01_おやすみTaxi_MON7A.txt"
+    }
+  ]
+}
